@@ -1,0 +1,15 @@
+{
+  "name": "beverage",
+  "collaborators": [
+    "Alex Gill <email@alexfoxgill.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "beverage_bg.wasm",
+    "beverage.js",
+    "beverage.d.ts"
+  ],
+  "module": "beverage.js",
+  "types": "beverage.d.ts",
+  "sideEffects": false
+}
